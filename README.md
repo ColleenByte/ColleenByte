@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hiya, I'm Colleen! 🌱
+Welcome to my Github! 
+I'm a Computer Science student at SETU, branching into Cloud & Networks.
+## About:
+- 2nd Year Computer Science (Cloud & Networks) student at **South East Technological University (SETU)**
+- Interested in **cloud infrastructure**, **networking** and how systems connect at scale
+- Currently my hobbies include: Raspberry Pi setups, Sketching & Tabletop Roleplaying Games
+  ***
+## Current Experience
 
-<!--
-**ColleenByte/ColleenByte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![My Skills](https://skillicons.dev/icons?i=aws,cloudflare,docker,linux,js,java,python,git,raspberrypi&perline=9)](https://skillicons.dev)
+## Connect With Me on LinkedIn
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge)](https://www.linkedin.com/in/colleen-mccarthy-093718256)
+***
+```bash
+colleen@byte:~$ roll d20 --check "deploy ranger.server"
+Rolled a 1. The server has been eaten by a mimic.
+```
